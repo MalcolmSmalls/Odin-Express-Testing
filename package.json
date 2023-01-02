@@ -1,0 +1,27 @@
+{
+  "name": "odin-express-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalcolmSmalls/Odin-Express-Testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MalcolmSmalls/Odin-Express-Testing/issues"
+  },
+  "homepage": "https://github.com/MalcolmSmalls/Odin-Express-Testing#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mongoose": "^6.8.2",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0"
+  }
+}
